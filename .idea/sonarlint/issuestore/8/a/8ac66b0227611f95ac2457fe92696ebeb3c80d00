@@ -1,0 +1,11 @@
+
+_
+java:S1612"=Replace this lambda with method reference 'Number::intValue'.(ó¥şÿÿÿÿ8†¸’¥±1
+G	java:S106("+Replace this use of System.out by a logger.(Š Ğ‹8ˆ¸’¥±1
+G	java:S106)"+Replace this use of System.out by a logger.(ıÛÎê8ª‰“¥±1
+L	java:S106*"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8—±™¥±1
+G	java:S106+"+Replace this use of System.out by a logger.(Å¶áç8—±™¥±1
+G	java:S106,"+Replace this use of System.out by a logger.(®õã‚8—±™¥±1
+G	java:S106-"+Replace this use of System.out by a logger.(ï€»‘8—±™¥±1
+G	java:S106."+Replace this use of System.out by a logger.(³´Ğí8êù¥±1
+L	java:S106/"+Replace this use of System.out by a logger.(üÜÂ»ùÿÿÿÿ8êù¥±1

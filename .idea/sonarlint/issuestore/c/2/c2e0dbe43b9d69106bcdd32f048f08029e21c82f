@@ -1,0 +1,5 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(¢½†ï8ƒÞ‰Á±1
+G	java:S106"+Replace this use of System.out by a logger.(²øïÂ8ƒÞ‰Á±1
+p
+java:S22729"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ÿ·°Çûÿÿÿÿ8†Þ‰Á±1
