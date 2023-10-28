@@ -1,0 +1,24 @@
+
+6
+java:S1170"!Make this final field static too.(Šø¿o
+t
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+E	java:S106!"+Replace this use of System.out by a logger.(Ù—Ôßÿÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(ôœ²à
+E	java:S106&"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(’¾ä÷
+E	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+?	java:S1068"+Replace this use of System.out by a logger.(•›ÆY
+E	java:S1069"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106<"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ
+E	java:S106D"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106E"+Replace this use of System.out by a logger.(–õÓ–ÿÿÿÿÿ
+E	java:S106F"+Replace this use of System.out by a logger.(¤¬ù•ÿÿÿÿÿ
+E	java:S106G"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106O"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106P"+Replace this use of System.out by a logger.(„±Ò¸øÿÿÿÿ
+E	java:S106Q"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106Y"+Replace this use of System.out by a logger.(£¿Â¼
+E	java:S106Z"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ

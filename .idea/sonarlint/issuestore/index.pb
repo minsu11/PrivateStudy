@@ -84,3 +84,17 @@ j
 :Study/src/main/java/parkminsu/privatestudy/monte/Main.java,c/9/c9ed192ad50818f0a4b1c38069786520a38853b0
 s
 CStudy/src/main/java/parkminsu/privatestudy/FixedPointIteration.java,c/2/c2e0dbe43b9d69106bcdd32f048f08029e21c82f
+p
+@Study/src/main/java/parkminsu/privatestudy/thread/exam/Main.java,4/b/4bad984a4ccc64295163b2b2c1d51297f2b58829
+q
+AStudy/src/main/java/parkminsu/privatestudy/thread/exam/Store.java,9/f/9f21af689b7578b62b044d8499c36e35246c2d6f
+v
+FStudy/src/main/java/parkminsu/privatestudy/thread/exam/Proceducer.java,3/4/3415adea7384a8685a3853ecb8683e81c612ebba
+t
+DStudy/src/main/java/parkminsu/privatestudy/thread/exam/Consumer.java,1/5/15ccc6c2abcd344b3f0bfe0bf23ff70622b1b872
+v
+FStudy/src/main/java/parkminsu/privatestudy/thread/assignment/Mart.java,5/9/59e5ac4ab0aa8c7c5def8fa712707a2d27827502
+v
+FStudy/src/main/java/parkminsu/privatestudy/thread/assignment/Main.java,d/7/d7738ded1a990d70055574d2dc273987857c88a8
+w
+GStudy/src/main/java/parkminsu/privatestudy/thread/assignment/Store.java,2/e/2e9aa9722a4a4ce6822a1179692694a62bbf7c43
