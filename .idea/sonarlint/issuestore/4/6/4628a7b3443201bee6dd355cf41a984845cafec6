@@ -1,0 +1,10 @@
+
+f
+java:S2095	"DUse try-with-resources or close this "Socket" in a "finally" clause.( –ªτόÿÿÿÿ8®’¦ΞΊ1
+\
+java:S1854	":Remove this useless assignment to local variable "socket".( –ªτόÿÿÿÿ8―’¦ΞΊ1
+M
+java:S1481	"+Remove this unused "socket" local variable.( –ªτόÿÿÿÿ8±’¦ΞΊ1
+L	java:S106
+"+Replace this use of System.out by a logger.(β‚ωÿÿÿÿ8±’¦ΞΊ1
+L	java:S106"+Replace this use of System.err by a logger.(ήΰ¬ψÿÿÿÿ8±’¦ΞΊ1

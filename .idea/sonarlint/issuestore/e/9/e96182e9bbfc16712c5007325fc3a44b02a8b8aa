@@ -1,0 +1,9 @@
+
+F	java:S106"+Replace this use of System.err by a logger.(‡Îµ88§â‹ò»1
+G	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8©â‹ò»1
+D
+java:S1481"'Remove this unused "bw" local variable.(ûÄÏ8¶Æ•ò»1
+G	java:S106"+Replace this use of System.out by a logger.(Ä¤¶¯8©â‹ò»1
+G	java:S106!"+Replace this use of System.out by a logger.(ñæ…ñ8©â‹ò»1
+G	java:S106$"+Replace this use of System.out by a logger.(±¤ª¹8¦·œò»1
+L	java:S106*"+Replace this use of System.err by a logger.(ŞªÄßÿÿÿÿÿ8ªâ‹ò»1

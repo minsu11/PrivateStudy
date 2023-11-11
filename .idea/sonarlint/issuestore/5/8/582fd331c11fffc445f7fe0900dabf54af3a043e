@@ -1,0 +1,6 @@
+
+L	java:S106"+Replace this use of System.err by a logger.(Õşìïûÿÿÿÿ8„ë¬ò»1
+G	java:S106"+Replace this use of System.out by a logger.(ûÄÏ8†ë¬ò»1
+M
+java:S1481"+Remove this unused "length" local variable.(”Ú´ıÿÿÿÿ8†ë¬ò»1
+L	java:S1063"+Replace this use of System.err by a logger.(ïáÇ”ûÿÿÿÿ8†ë¬ò»1

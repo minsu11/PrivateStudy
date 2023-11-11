@@ -1,0 +1,7 @@
+# Quiz 02
+
+## Try-with-resource
+
+- 장점
+- close를 자동으로 해주기 때문에 자원관리에 용이하다
+

@@ -1,0 +1,10 @@
+
+
+java:S1192"_Define a constant instead of duplicating this literal "ì— ì—°ê²°í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤" 3 times.(¼Éáæøÿÿÿÿ8ÒçŞäº1
+L	java:S106"+Replace this use of System.err by a logger.(¼Éáæøÿÿÿÿ8èçŞäº1
+a
+java:S2147"DCombine this catch with the one at line 28, which has the same body.(ï­£Ä8èçŞäº1
+L	java:S106"+Replace this use of System.out by a logger.(â‚Ÿùÿÿÿÿ8èçŞäº1
+L	java:S106"+Replace this use of System.out by a logger.(ªäåùÿÿÿÿ8€Üßäº1
+L	java:S106"+Replace this use of System.err by a logger.(¼Éáæøÿÿÿÿ8éçŞäº1
+L	java:S106"+Replace this use of System.err by a logger.(¼Éáæøÿÿÿÿ8éçŞäº1

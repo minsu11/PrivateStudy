@@ -1,0 +1,6 @@
+
+F
+java:S1481	")Remove this unused "host" local variable.(Ğü‘ç8äØê»1
+G	java:S106"+Replace this use of System.err by a logger.(Àºû’8Âˆ”ê»1
+L	java:S106"+Replace this use of System.out by a logger.(ÒòÎÍüÿÿÿÿ8Ãˆ”ê»1
+L	java:S106"+Replace this use of System.err by a logger.(Şàš¬øÿÿÿÿ8Ãˆ”ê»1

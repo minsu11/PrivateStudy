@@ -1,0 +1,5 @@
+
+>
+java:S1170	"!Make this final field static too.(Í¥˜Â8áŸàŸ»1
+G	java:S106"+Replace this use of System.out by a logger.(¸ª¼œ8äŸàŸ»1
+L	java:S106*"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8åŸàŸ»1

@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.err by a logger.(î´ãÐþÿÿÿÿ8¤Ú‚ó»1
+O
+java:S1481"-Remove this unused "socketIn" local variable.(ñ‡•Žüÿÿÿÿ8¥Ú‚ó»1
+K
+java:S1481".Remove this unused "socketOut" local variable.(ƒÙ¶ž8¦Ú‚ó»1
+L	java:S106"+Replace this use of System.err by a logger.(®ƒåîÿÿÿÿÿ8¦Ú‚ó»1
+L	java:S106+"+Replace this use of System.out by a logger.(©ÃÛýýÿÿÿÿ8§Ú‚ó»1

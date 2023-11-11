@@ -1,0 +1,12 @@
+
+L	java:S106"+Replace this use of System.err by a logger.(‘ä‰¼ûÿÿÿÿ8ÙŞêº1
+a
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(ï­£Ä8ÙŞêº1
+L	java:S106"+Replace this use of System.out by a logger.(Œ Ã¦ùÿÿÿÿ8‘ÙŞêº1
+T
+java:S1481"9Remove this unused "bufferedOutputStream" local variable.(í«r8åÄ¦ëº1
+Q
+java:S1481"/Remove this unused "readLength" local variable.(Šïş©ûÿÿÿÿ8‘ÙŞêº1
+L	java:S106+"+Replace this use of System.out by a logger.(éí÷„ùÿÿÿÿ8’ÙŞêº1
+L	java:S1061"+Replace this use of System.err by a logger.(¼Éáæøÿÿÿÿ8’ÙŞêº1
+L	java:S1063"+Replace this use of System.err by a logger.(¼Éáæøÿÿÿÿ8’ÙŞêº1
