@@ -1,12 +1,8 @@
 
-W
-java:S1141"5Extract this nested try block into a separate method.(ùÒí¶ıÿÿÿÿ8®ëÀú»1
-D
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÂëÀú»1
-L	java:S106"+Replace this use of System.err by a logger.(¤ÅŸèüÿÿÿÿ8ÆëÀú»1
-L	java:S106"+Replace this use of System.out by a logger.(ÿ†Õüÿÿÿÿ8ÆëÀú»1
-G	java:S106"+Replace this use of System.out by a logger.(»¹îö8ÆëÀú»1
-L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÆëÀú»1
-L	java:S106""+Replace this use of System.err by a logger.(µü©øÿÿÿÿ8ÇëÀú»1
-J	java:S1081")Either remove or fill this block of code.(Ğ‚û·üÿÿÿÿ8ÈëÀú»1
-E	java:S1083")Either remove or fill this block of code.(ï­£Ä8ÈëÀú»1
+L	java:S106"+Replace this use of System.err by a logger.(¤ÅŸèüÿÿÿÿ8Ê›†¼1
+L	java:S106"+Replace this use of System.out by a logger.(ÿ†Õüÿÿÿÿ8Ê›†¼1
+G	java:S106"+Replace this use of System.out by a logger.(»¹îö8Ê›†¼1
+L	java:S106"+Replace this use of System.err by a logger.(µü©øÿÿÿÿ8Ë›†¼1
+Z
+java:S1117;"=Rename "socketOut" which hides the field declared at line 37.(Êçÿ8Í›†¼1
+E	java:S108F")Either remove or fill this block of code.(ï­£Ä8«À‡¼1

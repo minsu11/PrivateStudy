@@ -25,7 +25,6 @@ public class Server {
                 System.out.println("서번 연결");
                 ServerThread serverThread = new ServerThread(socket);
                 serverThread.start();
-                System.out.println(serverThread.getName());
             }
 
 

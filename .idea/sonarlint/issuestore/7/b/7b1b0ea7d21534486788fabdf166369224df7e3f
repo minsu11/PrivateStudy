@@ -4,9 +4,8 @@ java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÎÀåø»1
 L	java:S106"+Replace this use of System.err by a logger.(ô—‘èûÿÿÿÿ8ƒÉ¨ø»1
 L	java:S106"+Replace this use of System.out by a logger.(ÿ†Õüÿÿÿÿ8„É¨ø»1
 L	java:S106"+Replace this use of System.out by a logger.(ç²¡ºÿÿÿÿÿ8„É¨ø»1
-G	java:S106"+Replace this use of System.out by a logger.(¨Û¶ƒ8ëâÚø»1
-L	java:S106!"+Replace this use of System.err by a logger.(ñ¿²÷ùÿÿÿÿ8„É¨ø»1
-w	java:S116("VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²´íÿÿÿÿÿ8Œú‹ù»1
+L	java:S106 "+Replace this use of System.err by a logger.(ñ¿²÷ùÿÿÿÿ8„É¨ø»1
+w	java:S116'"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²´íÿÿÿÿÿ8Œú‹ù»1
 C
-java:S1170("!Make this final field static too.(²´íÿÿÿÿÿ8Œú‹ù»1
-L	java:S106D"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ú‹ù»1
+java:S1170'"!Make this final field static too.(²´íÿÿÿÿÿ8Œú‹ù»1
+L	java:S106C"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ú‹ù»1

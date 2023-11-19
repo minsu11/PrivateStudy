@@ -1,3 +1,14 @@
 
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ñ·ÍŸ8Ñæñù»1
+F	java:S106"+Replace this use of System.err by a logger.(‡Îµ88¼Ï¼œ¼1
+L	java:S106"+Replace this use of System.out by a logger.(â‚Ÿùÿÿÿÿ8½Ï¼œ¼1
+L	java:S106#"+Replace this use of System.out by a logger.(÷ëàÏøÿÿÿÿ8½Ï¼œ¼1
+G	java:S106'"+Replace this use of System.out by a logger.(ïŒé8¾Ï¼œ¼1
+L	java:S106B"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÑÏ¼œ¼1
+w	java:S116J"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²´íÿÿÿÿÿ8ÑÏ¼œ¼1
+C
+java:S1170J"!Make this final field static too.(²´íÿÿÿÿÿ8ÑÏ¼œ¼1
+G	java:S106S"+Replace this use of System.out by a logger.(•Î©ò8ÓÏ¼œ¼1
+E	java:S108T")Either remove or fill this block of code.(­ïã8ÓÏ¼œ¼1
+L	java:S106X"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Õò½œ¼1
+Q
+java:S1068J"/Remove this unused "BUFFER_SIZE" private field.(²´íÿÿÿÿÿ8ÓÏ¼œ¼1
