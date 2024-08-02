@@ -59,6 +59,7 @@ public class SimpleCurl {
         URL url = new URL(cmdParserString[cmdParserString.length - 1]);
         String urlHost = url.getHost();
         String urlPath = url.getPath();
+        System.out.println(urlHost);
         String state = "GET";
         if (cmd.hasOption("X")) {
             state = cmd.getOptionValue("X");
